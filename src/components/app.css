@@ -1,0 +1,13 @@
+
+
+#img {
+    position: absolute;
+    margin-left: 8%;
+    opacity: 0.8;
+}
+
+
+.fluid-canvas {
+    position: absolute;
+    background: transparent;
+}
